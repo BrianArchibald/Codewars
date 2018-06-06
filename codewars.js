@@ -181,6 +181,7 @@ function splitAndMerge(str, sp) {
 function cutIt(arr){
   var min = Math.min(...arr.map(({ length }) => length));
   //map over array slice it by min.
+<<<<<<< HEAD
     
   
 }
